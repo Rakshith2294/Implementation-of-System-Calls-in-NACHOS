@@ -1,0 +1,1904 @@
+Entering main
+Forking thread: postal worker f(a): 134599746 0x8c99258
+Putting thread on ready list: postal worker
+AddrSpace: constructor
+Initializing address space: 14, 1792
+allocatefreepage: pagetracker[0] 0
+
+allocatefreepage: Free page found:0
+
+allocatefreepage: pagetracker[1] 0
+
+allocatefreepage: Free page found:1
+
+allocatefreepage: pagetracker[2] 0
+
+allocatefreepage: Free page found:2
+
+allocatefreepage: pagetracker[3] 0
+
+allocatefreepage: Free page found:3
+
+allocatefreepage: pagetracker[4] 0
+
+allocatefreepage: Free page found:4
+
+allocatefreepage: pagetracker[5] 0
+
+allocatefreepage: Free page found:5
+
+allocatefreepage: pagetracker[6] 0
+
+allocatefreepage: Free page found:6
+
+allocatefreepage: pagetracker[7] 0
+
+allocatefreepage: Free page found:7
+
+allocatefreepage: pagetracker[8] 0
+
+allocatefreepage: Free page found:8
+
+allocatefreepage: pagetracker[9] 0
+
+allocatefreepage: Free page found:9
+
+allocatefreepage: pagetracker[10] 0
+
+allocatefreepage: Free page found:10
+
+allocatefreepage: pagetracker[11] 0
+
+allocatefreepage: Free page found:11
+
+allocatefreepage: pagetracker[12] 0
+
+allocatefreepage: Free page found:12
+
+allocatefreepage: pagetracker[13] 0
+
+allocatefreepage: Free page found:13
+
+Initializing code segment.
+0, 720
+Initializing read only data segment.
+720, 48
+Initializing stack pointer: 1776
+Reading VA 0, size 4
+	Translate 0 , read
+phys addr = 0
+	value read = 201326680
+Reading VA 4, size 4
+	Translate 4 , read
+phys addr = 4
+	value read = 0
+Reading VA 352, size 4
+	Translate 352 , read
+phys addr = 352
+	value read = 666763184
+Reading VA 356, size 4
+	Translate 356 , read
+phys addr = 356
+	value read = -1346437044
+Writing VA 1772, size 4, value 8
+	Translate 1772 , write
+phys addr = 1772
+Reading VA 360, size 4
+	Translate 360 , read
+phys addr = 360
+	value read = -1346502584
+Writing VA 1768, size 4, value 0
+	Translate 1768 , write
+phys addr = 1768
+Reading VA 364, size 4
+	Translate 364 , read
+phys addr = 364
+	value read = 201326676
+Reading VA 368, size 4
+	Translate 368 , read
+phys addr = 368
+	value read = 60878881
+Reading VA 336, size 4
+	Translate 336 , read
+phys addr = 336
+	value read = 65011720
+Reading VA 340, size 4
+	Translate 340 , read
+phys addr = 340
+	value read = 0
+Reading VA 372, size 4
+	Translate 372 , read
+phys addr = 372
+	value read = 604110849
+Reading VA 376, size 4
+	Translate 376 , read
+phys addr = 376
+	value read = -1346240488
+Writing VA 1720, size 4, value 1
+	Translate 1720 , write
+phys addr = 1720
+Reading VA 380, size 4
+	Translate 380 , read
+phys addr = 380
+	value read = 667025440
+Reading VA 384, size 4
+	Translate 384 , read
+phys addr = 384
+	value read = 1006829568
+Reading VA 388, size 4
+	Translate 388 , read
+phys addr = 388
+	value read = 610468560
+Reading VA 392, size 4
+	Translate 392 , read
+phys addr = 392
+	value read = -2006712317
+Reading VA 720, size 4
+	Translate 720 , read
+phys addr = 720
+	value read = 1818847331
+Reading VA 396, size 4
+	Translate 396 , read
+phys addr = 396
+	value read = -1738276864
+Reading VA 720, size 4
+	Translate 720 , read
+phys addr = 720
+	value read = 1818847331
+Reading VA 400, size 4
+	Translate 400 , read
+phys addr = 400
+	value read = -2006646777
+Reading VA 724, size 4
+	Translate 724 , read
+phys addr = 724
+	value read = 1919950948
+Reading VA 404, size 4
+	Translate 404 , read
+phys addr = 404
+	value read = -1738211324
+Reading VA 724, size 4
+	Translate 724 , read
+phys addr = 724
+	value read = 1919950948
+Reading VA 408, size 4
+	Translate 408 , read
+phys addr = 408
+	value read = -2006581237
+Reading VA 728, size 4
+	Translate 728 , read
+phys addr = 728
+	value read = 1936024431
+Reading VA 412, size 4
+	Translate 412 , read
+phys addr = 412
+	value read = -1738145784
+Reading VA 728, size 4
+	Translate 728 , read
+phys addr = 728
+	value read = 1936024431
+Reading VA 416, size 4
+	Translate 416 , read
+phys addr = 416
+	value read = -2140733428
+Reading VA 732, size 1
+	Translate 732 , read
+phys addr = 732
+	value read = 115
+Reading VA 420, size 4
+	Translate 420 , read
+phys addr = 420
+	value read = -1471938557
+Reading VA 1728, size 4
+	Translate 1728 , read
+phys addr = 1728
+	value read = 0
+Writing VA 1728, size 4, value 1818847331
+	Translate 1728 , write
+phys addr = 1728
+Reading VA 424, size 4
+	Translate 424 , read
+phys addr = 424
+	value read = -1203503104
+Reading VA 1728, size 4
+	Translate 1728 , read
+phys addr = 1728
+	value read = 1818847331
+Writing VA 1728, size 4, value 1818847331
+	Translate 1728 , write
+phys addr = 1728
+Reading VA 428, size 4
+	Translate 428 , read
+phys addr = 428
+	value read = -1471873017
+Reading VA 1732, size 4
+	Translate 1732 , read
+phys addr = 1732
+	value read = 0
+Writing VA 1732, size 4, value 1919950948
+	Translate 1732 , write
+phys addr = 1732
+Reading VA 432, size 4
+	Translate 432 , read
+phys addr = 432
+	value read = -1203437564
+Reading VA 1732, size 4
+	Translate 1732 , read
+phys addr = 1732
+	value read = 1919950948
+Writing VA 1732, size 4, value 1919950948
+	Translate 1732 , write
+phys addr = 1732
+Reading VA 436, size 4
+	Translate 436 , read
+phys addr = 436
+	value read = -1471807477
+Reading VA 1736, size 4
+	Translate 1736 , read
+phys addr = 1736
+	value read = 0
+Writing VA 1736, size 4, value 1936024431
+	Translate 1736 , write
+phys addr = 1736
+Reading VA 440, size 4
+	Translate 440 , read
+phys addr = 440
+	value read = -1203372024
+Reading VA 1736, size 4
+	Translate 1736 , read
+phys addr = 1736
+	value read = 1936024431
+Writing VA 1736, size 4, value 1936024431
+	Translate 1736 , write
+phys addr = 1736
+Reading VA 444, size 4
+	Translate 444 , read
+phys addr = 444
+	value read = -1605959668
+Writing VA 1740, size 1, value 115
+	Translate 1740 , write
+phys addr = 1740
+Reading VA 448, size 4
+	Translate 448 , read
+phys addr = 448
+	value read = -2140930035
+Reading VA 733, size 1
+	Translate 733 , read
+phys addr = 733
+	value read = 0
+Reading VA 452, size 4
+	Translate 452 , read
+phys addr = 452
+	value read = 0
+Reading VA 456, size 4
+	Translate 456 , read
+phys addr = 456
+	value read = -1606156275
+Writing VA 1741, size 1, value 0
+	Translate 1741 , write
+phys addr = 1741
+Reading VA 460, size 4
+	Translate 460 , read
+phys addr = 460
+	value read = 667025456
+Reading VA 464, size 4
+	Translate 464 , read
+phys addr = 464
+	value read = 1006829568
+Reading VA 468, size 4
+	Translate 468 , read
+phys addr = 468
+	value read = 610468576
+Reading VA 472, size 4
+	Translate 472 , read
+phys addr = 472
+	value read = -2006712317
+Reading VA 736, size 4
+	Translate 736 , read
+phys addr = 736
+	value read = 1701994864
+Reading VA 476, size 4
+	Translate 476 , read
+phys addr = 476
+	value read = -1738276864
+Reading VA 736, size 4
+	Translate 736 , read
+phys addr = 736
+	value read = 1701994864
+Reading VA 480, size 4
+	Translate 480 , read
+phys addr = 480
+	value read = -2006646777
+Reading VA 740, size 4
+	Translate 740 , read
+phys addr = 740
+	value read = 1881175150
+Reading VA 484, size 4
+	Translate 484 , read
+phys addr = 484
+	value read = -1738211324
+Reading VA 740, size 4
+	Translate 740 , read
+phys addr = 740
+	value read = 1881175150
+Reading VA 488, size 4
+	Translate 488 , read
+phys addr = 488
+	value read = -2006581237
+Reading VA 744, size 4
+	Translate 744 , read
+phys addr = 744
+	value read = 1701015410
+Reading VA 492, size 4
+	Translate 492 , read
+phys addr = 492
+	value read = -1738145784
+Reading VA 744, size 4
+	Translate 744 , read
+phys addr = 744
+	value read = 1701015410
+Reading VA 496, size 4
+	Translate 496 , read
+phys addr = 496
+	value read = -2140733428
+Reading VA 748, size 1
+	Translate 748 , read
+phys addr = 748
+	value read = 115
+Reading VA 500, size 4
+	Translate 500 , read
+phys addr = 500
+	value read = -1471938557
+Reading VA 1744, size 4
+	Translate 1744 , read
+phys addr = 1744
+	value read = 0
+Writing VA 1744, size 4, value 1701994864
+	Translate 1744 , write
+phys addr = 1744
+Reading VA 504, size 4
+	Translate 504 , read
+phys addr = 504
+	value read = -1203503104
+Reading VA 1744, size 4
+	Translate 1744 , read
+phys addr = 1744
+	value read = 1701994864
+Writing VA 1744, size 4, value 1701994864
+	Translate 1744 , write
+phys addr = 1744
+Reading VA 508, size 4
+	Translate 508 , read
+phys addr = 508
+	value read = -1471873017
+Reading VA 1748, size 4
+	Translate 1748 , read
+phys addr = 1748
+	value read = 0
+Writing VA 1748, size 4, value 1881175150
+	Translate 1748 , write
+phys addr = 1748
+Reading VA 512, size 4
+	Translate 512 , read
+phys addr = 512
+	value read = -1203437564
+Reading VA 1748, size 4
+	Translate 1748 , read
+phys addr = 1748
+	value read = 1881175150
+Writing VA 1748, size 4, value 1881175150
+	Translate 1748 , write
+phys addr = 1748
+Reading VA 516, size 4
+	Translate 516 , read
+phys addr = 516
+	value read = -1471807477
+Reading VA 1752, size 4
+	Translate 1752 , read
+phys addr = 1752
+	value read = 0
+Writing VA 1752, size 4, value 1701015410
+	Translate 1752 , write
+phys addr = 1752
+Reading VA 520, size 4
+	Translate 520 , read
+phys addr = 520
+	value read = -1203372024
+Reading VA 1752, size 4
+	Translate 1752 , read
+phys addr = 1752
+	value read = 1701015410
+Writing VA 1752, size 4, value 1701015410
+	Translate 1752 , write
+phys addr = 1752
+Reading VA 524, size 4
+	Translate 524 , read
+phys addr = 524
+	value read = -1605959668
+Writing VA 1756, size 1, value 115
+	Translate 1756 , write
+phys addr = 1756
+Reading VA 528, size 4
+	Translate 528 , read
+phys addr = 528
+	value read = -2140930035
+Reading VA 749, size 1
+	Translate 749 , read
+phys addr = 749
+	value read = 115
+Reading VA 532, size 4
+	Translate 532 , read
+phys addr = 532
+	value read = -2140864498
+Reading VA 750, size 1
+	Translate 750 , read
+phys addr = 750
+	value read = 0
+Reading VA 536, size 4
+	Translate 536 , read
+phys addr = 536
+	value read = -1606156275
+Writing VA 1757, size 1, value 115
+	Translate 1757 , write
+phys addr = 1757
+Reading VA 540, size 4
+	Translate 540 , read
+phys addr = 540
+	value read = -1606090738
+Writing VA 1758, size 1, value 0
+	Translate 1758 , write
+phys addr = 1758
+Reading VA 544, size 4
+	Translate 544 , read
+phys addr = 544
+	value read = 667025472
+Reading VA 548, size 4
+	Translate 548 , read
+phys addr = 548
+	value read = 1006829568
+Reading VA 552, size 4
+	Translate 552 , read
+phys addr = 552
+	value read = 610468592
+Reading VA 556, size 4
+	Translate 556 , read
+phys addr = 556
+	value read = -2006712317
+Reading VA 752, size 4
+	Translate 752 , read
+phys addr = 752
+	value read = 825250374
+Reading VA 560, size 4
+	Translate 560 , read
+phys addr = 560
+	value read = -1738276864
+Reading VA 752, size 4
+	Translate 752 , read
+phys addr = 752
+	value read = 825250374
+Reading VA 564, size 4
+	Translate 564 , read
+phys addr = 564
+	value read = -2140864508
+Reading VA 756, size 1
+	Translate 756 , read
+phys addr = 756
+	value read = 70
+Reading VA 568, size 4
+	Translate 568 , read
+phys addr = 568
+	value read = -2140798971
+Reading VA 757, size 1
+	Translate 757 , read
+phys addr = 757
+	value read = 0
+Reading VA 572, size 4
+	Translate 572 , read
+phys addr = 572
+	value read = -1471938557
+Reading VA 1760, size 4
+	Translate 1760 , read
+phys addr = 1760
+	value read = 0
+Writing VA 1760, size 4, value 825250374
+	Translate 1760 , write
+phys addr = 1760
+Reading VA 576, size 4
+	Translate 576 , read
+phys addr = 576
+	value read = -1203503104
+Reading VA 1760, size 4
+	Translate 1760 , read
+phys addr = 1760
+	value read = 825250374
+Writing VA 1760, size 4, value 825250374
+	Translate 1760 , write
+phys addr = 1760
+Reading VA 580, size 4
+	Translate 580 , read
+phys addr = 580
+	value read = -1606090748
+Writing VA 1764, size 1, value 70
+	Translate 1764 , write
+phys addr = 1764
+Reading VA 584, size 4
+	Translate 584 , read
+phys addr = 584
+	value read = -1606025211
+Writing VA 1765, size 1, value 0
+	Translate 1765 , write
+phys addr = 1765
+Reading VA 588, size 4
+	Translate 588 , read
+phys addr = 588
+	value read = 667025472
+Reading VA 592, size 4
+	Translate 592 , read
+phys addr = 592
+	value read = 4202529
+Reading VA 596, size 4
+	Translate 596 , read
+phys addr = 596
+	value read = 604307461
+Reading VA 600, size 4
+	Translate 600 , read
+phys addr = 600
+	value read = -1882849256
+Reading VA 1720, size 4
+	Translate 1720 , read
+phys addr = 1720
+	value read = 1
+Reading VA 604, size 4
+	Translate 604 , read
+phys addr = 604
+	value read = 201326636
+Reading VA 608, size 4
+	Translate 608 , read
+phys addr = 608
+	value read = 0
+Reading VA 176, size 4
+	Translate 176 , read
+phys addr = 176
+	value read = 604110856
+Reading VA 180, size 4
+	Translate 180 , read
+phys addr = 180
+	value read = 12
+Received Exception 1 type: 8
+
+syscall:write: Hello: pid=0, args={1760, 5, 1 }
+
+syscall:write: Entering Write Systemcall 
+
+Reading VA 1760, size 1
+	Translate 1760 , read
+phys addr = 1760
+	value read = 70
+FSleeping thread: main
+Switching from: main to: postal worker
+Beginning thread: postal worker
+Yielding thread: postal worker
+Sleeping thread: postal worker
+Putting thread on ready list: main
+Switching from: postal worker to: main
+Now in thread: main
+Yielding thread: main
+Reading VA 1761, size 1
+	Translate 1761 , read
+phys addr = 1761
+	value read = 82
+RSleeping thread: main
+Putting thread on ready list: main
+Switching from: main to: main
+Now in thread: main
+Reading VA 1762, size 1
+	Translate 1762 , read
+phys addr = 1762
+	value read = 48
+0Sleeping thread: main
+Putting thread on ready list: main
+Switching from: main to: main
+Now in thread: main
+Reading VA 1763, size 1
+	Translate 1763 , read
+phys addr = 1763
+	value read = 49
+1Sleeping thread: main
+Putting thread on ready list: main
+Switching from: main to: main
+Now in thread: main
+Yielding thread: main
+Reading VA 1764, size 1
+	Translate 1764 , read
+phys addr = 1764
+	value read = 70
+FSleeping thread: main
+Putting thread on ready list: main
+Switching from: main to: main
+Now in thread: main
+syscall:write: Leaving Write Systemcall 
+
+Reading VA 184, size 4
+	Translate 184 , read
+phys addr = 184
+	value read = 65011720
+Reading VA 188, size 4
+	Translate 188 , read
+phys addr = 188
+	value read = 0
+Reading VA 612, size 4
+	Translate 612 , read
+phys addr = 612
+	value read = 201326656
+Reading VA 616, size 4
+	Translate 616 , read
+phys addr = 616
+	value read = 0
+Reading VA 256, size 4
+	Translate 256 , read
+phys addr = 256
+	value read = 604110866
+Reading VA 260, size 4
+	Translate 260 , read
+phys addr = 260
+	value read = 12
+Received Exception 1 type: 18
+
+SysFork Initiated 
+
+syscall:fork: A: parent pid=0
+
+syscall:fork: A: parent space=147463080
+
+syscall:fork: A:  REGISTER: PC=260
+
+syscall:fork: A:  REGISTER: Stack=1696
+
+syscall:fork: A:  REGISTER: RetAddr=620
+
+syscall:fork: A:  REGISTER: [2]=18
+
+AddrSpace: constructor (Copy Constructor)
+
+AddrSpace: allocating page << 0
+
+allocatefreepage: pagetracker[0] 1
+
+allocatefreepage: pagetracker[1] 1
+
+allocatefreepage: pagetracker[2] 1
+
+allocatefreepage: pagetracker[3] 1
+
+allocatefreepage: pagetracker[4] 1
+
+allocatefreepage: pagetracker[5] 1
+
+allocatefreepage: pagetracker[6] 1
+
+allocatefreepage: pagetracker[7] 1
+
+allocatefreepage: pagetracker[8] 1
+
+allocatefreepage: pagetracker[9] 1
+
+allocatefreepage: pagetracker[10] 1
+
+allocatefreepage: pagetracker[11] 1
+
+allocatefreepage: pagetracker[12] 1
+
+allocatefreepage: pagetracker[13] 1
+
+allocatefreepage: pagetracker[14] 0
+
+allocatefreepage: Free page found:14
+
+AddrSpace: pagetracker[14]=1
+
+copy constructor: page from 0 to 14
+
+AddrSpace: allocating page << 1
+
+allocatefreepage: pagetracker[15] 0
+
+allocatefreepage: Free page found:15
+
+AddrSpace: pagetracker[15]=1
+
+copy constructor: page from 1 to 15
+
+AddrSpace: allocating page << 2
+
+allocatefreepage: pagetracker[16] 0
+
+allocatefreepage: Free page found:16
+
+AddrSpace: pagetracker[16]=1
+
+copy constructor: page from 2 to 16
+
+AddrSpace: allocating page << 3
+
+allocatefreepage: pagetracker[17] 0
+
+allocatefreepage: Free page found:17
+
+AddrSpace: pagetracker[17]=1
+
+copy constructor: page from 3 to 17
+
+AddrSpace: allocating page << 4
+
+allocatefreepage: pagetracker[18] 0
+
+allocatefreepage: Free page found:18
+
+AddrSpace: pagetracker[18]=1
+
+copy constructor: page from 4 to 18
+
+AddrSpace: allocating page << 5
+
+allocatefreepage: pagetracker[19] 0
+
+allocatefreepage: Free page found:19
+
+AddrSpace: pagetracker[19]=1
+
+copy constructor: page from 5 to 19
+
+AddrSpace: allocating page << 6
+
+allocatefreepage: pagetracker[20] 0
+
+allocatefreepage: Free page found:20
+
+AddrSpace: pagetracker[20]=1
+
+copy constructor: page from 6 to 20
+
+AddrSpace: allocating page << 7
+
+allocatefreepage: pagetracker[21] 0
+
+allocatefreepage: Free page found:21
+
+AddrSpace: pagetracker[21]=1
+
+copy constructor: page from 7 to 21
+
+AddrSpace: allocating page << 8
+
+allocatefreepage: pagetracker[22] 0
+
+allocatefreepage: Free page found:22
+
+AddrSpace: pagetracker[22]=1
+
+copy constructor: page from 8 to 22
+
+AddrSpace: allocating page << 9
+
+allocatefreepage: pagetracker[23] 0
+
+allocatefreepage: Free page found:23
+
+AddrSpace: pagetracker[23]=1
+
+copy constructor: page from 9 to 23
+
+AddrSpace: allocating page << 10
+
+allocatefreepage: pagetracker[24] 0
+
+allocatefreepage: Free page found:24
+
+AddrSpace: pagetracker[24]=1
+
+copy constructor: page from 10 to 24
+
+AddrSpace: allocating page << 11
+
+allocatefreepage: pagetracker[25] 0
+
+allocatefreepage: Free page found:25
+
+AddrSpace: pagetracker[25]=1
+
+copy constructor: page from 11 to 25
+
+AddrSpace: allocating page << 12
+
+allocatefreepage: pagetracker[26] 0
+
+allocatefreepage: Free page found:26
+
+AddrSpace: pagetracker[26]=1
+
+copy constructor: page from 12 to 26
+
+AddrSpace: allocating page << 13
+
+allocatefreepage: pagetracker[27] 0
+
+allocatefreepage: Free page found:27
+
+AddrSpace: pagetracker[27]=1
+
+copy constructor: page from 13 to 27
+
+AddrSpace: copy construtor DONE
+
+syscall:fork: child pid=1
+
+syscall:fork: child space=0x8c94f78
+
+syscall:fork: B: parent pid=0
+
+syscall:fork: B: parent space=0x8ca1ba8
+
+syscall:fork: B: REGISTER: PC=264
+
+syscall:fork: B: REGISTER: Stack=1696
+
+syscall:fork: B: REGISTER: RetAddr=620
+
+syscall:fork: B: REGISTER: [2]=1
+
+Forking thread: Child Thread f(a): 134585680 0x1
+Putting thread on ready list: Child Thread
+syscall:fork: Leaving Fork SystemCall pid=0
+
+Reading VA 264, size 4
+	Translate 264 , read
+phys addr = 264
+	value read = 65011720
+Reading VA 268, size 4
+	Translate 268 , read
+phys addr = 268
+	value read = 0
+Reading VA 620, size 4
+	Translate 620 , read
+phys addr = 620
+	value read = -1346240492
+Writing VA 1716, size 4, value 1
+	Translate 1716 , write
+phys addr = 1716
+Reading VA 624, size 4
+	Translate 624 , read
+phys addr = 624
+	value read = -1883111404
+Reading VA 1716, size 4
+	Translate 1716 , read
+phys addr = 1716
+	value read = 1
+Reading VA 628, size 4
+	Translate 628 , read
+phys addr = 628
+	value read = 0
+Reading VA 632, size 4
+	Translate 632 , read
+phys addr = 632
+	value read = 339738633
+Reading VA 636, size 4
+	Translate 636 , read
+phys addr = 636
+	value read = 0
+Reading VA 672, size 4
+	Translate 672 , read
+phys addr = 672
+	value read = 667025456
+Reading VA 676, size 4
+	Translate 676 , read
+phys addr = 676
+	value read = 4202529
+Reading VA 680, size 4
+	Translate 680 , read
+phys addr = 680
+	value read = 604307470
+Reading VA 684, size 4
+	Translate 684 , read
+phys addr = 684
+	value read = -1882849256
+Reading VA 1720, size 4
+	Translate 1720 , read
+phys addr = 1720
+	value read = 1
+Reading VA 688, size 4
+	Translate 688 , read
+phys addr = 688
+	value read = 201326636
+Reading VA 692, size 4
+	Translate 692 , read
+phys addr = 692
+	value read = 0
+Reading VA 176, size 4
+	Translate 176 , read
+phys addr = 176
+	value read = 604110856
+Reading VA 180, size 4
+	Translate 180 , read
+phys addr = 180
+	value read = 12
+Received Exception 1 type: 8
+
+syscall:write: Hello: pid=0, args={1744, 14, 1 }
+
+syscall:write: Entering Write Systemcall 
+
+Reading VA 1744, size 1
+	Translate 1744 , read
+phys addr = 1744
+	value read = 112
+pSleeping thread: main
+Switching from: main to: Child Thread
+Beginning thread: Child Thread
+Yielding thread: Child Thread
+stacktopfunc: Entered void stacktopfunc(void *) 
+
+stacktopfunc: arg=1
+
+stacktopfunc: pid=1
+
+stacktopfunc: space=0x8c94f78
+
+stacktopfunc: PageTable[0].physicalPage=14
+
+stacktopfunc: REGISTER: PC=264
+
+stacktopfunc: REGISTER: Stack=1696
+
+stacktopfunc: REGISTER: RetAddr=620
+
+stacktopfunc: REGISTER: [2]=0
+
+stacktopfunc: Entering machine->Run()
+
+Reading VA 264, size 4
+	Translate 264 , read
+phys addr = 2056
+	value read = 65011720
+Reading VA 268, size 4
+	Translate 268 , read
+phys addr = 2060
+	value read = 0
+Reading VA 620, size 4
+	Translate 620 , read
+phys addr = 2412
+	value read = -1346240492
+Writing VA 1716, size 4, value 0
+	Translate 1716 , write
+phys addr = 3508
+Reading VA 624, size 4
+	Translate 624 , read
+phys addr = 2416
+	value read = -1883111404
+Reading VA 1716, size 4
+	Translate 1716 , read
+phys addr = 3508
+	value read = 0
+Reading VA 628, size 4
+	Translate 628 , read
+phys addr = 2420
+	value read = 0
+Reading VA 632, size 4
+	Translate 632 , read
+phys addr = 2424
+	value read = 339738633
+Reading VA 636, size 4
+	Translate 636 , read
+phys addr = 2428
+	value read = 0
+Reading VA 640, size 4
+	Translate 640 , read
+phys addr = 2432
+	value read = 667025440
+Reading VA 644, size 4
+	Translate 644 , read
+phys addr = 2436
+	value read = 4202529
+Reading VA 648, size 4
+	Translate 648 , read
+phys addr = 2440
+	value read = 604307469
+Reading VA 652, size 4
+	Translate 652 , read
+phys addr = 2444
+	value read = -1882849256
+Reading VA 1720, size 4
+	Translate 1720 , read
+phys addr = 3512
+	value read = 1
+Reading VA 656, size 4
+	Translate 656 , read
+phys addr = 2448
+	value read = 201326636
+Reading VA 660, size 4
+	Translate 660 , read
+phys addr = 2452
+	value read = 0
+Reading VA 176, size 4
+	Translate 176 , read
+phys addr = 1968
+	value read = 604110856
+Reading VA 180, size 4
+	Translate 180 , read
+phys addr = 1972
+	value read = 12
+Received Exception 1 type: 8
+
+syscall:write: Hello: pid=1, args={1728, 13, 1 }
+
+syscall:write: Entering Write Systemcall 
+
+Reading VA 1728, size 1
+	Translate 1728 , read
+phys addr = 3520
+	value read = 99
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1745, size 1
+	Translate 1745 , read
+phys addr = 1745
+	value read = 97
+aSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1746, size 1
+	Translate 1746 , read
+phys addr = 1746
+	value read = 114
+rSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1747, size 1
+	Translate 1747 , read
+phys addr = 1747
+	value read = 101
+eSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1748, size 1
+	Translate 1748 , read
+phys addr = 1748
+	value read = 110
+nSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1749, size 1
+	Translate 1749 , read
+phys addr = 1749
+	value read = 116
+tSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1750, size 1
+	Translate 1750 , read
+phys addr = 1750
+	value read = 32
+ Sleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1751, size 1
+	Translate 1751 , read
+phys addr = 1751
+	value read = 112
+pSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1752, size 1
+	Translate 1752 , read
+phys addr = 1752
+	value read = 114
+rSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1753, size 1
+	Translate 1753 , read
+phys addr = 1753
+	value read = 111
+oSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1754, size 1
+	Translate 1754 , read
+phys addr = 1754
+	value read = 99
+cSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1755, size 1
+	Translate 1755 , read
+phys addr = 1755
+	value read = 101
+eSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1756, size 1
+	Translate 1756 , read
+phys addr = 1756
+	value read = 115
+sSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+Putting thread on ready list: Child Thread
+Reading VA 1757, size 1
+	Translate 1757 , read
+phys addr = 1757
+	value read = 115
+sSleeping thread: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Sleeping thread: Child Thread
+Putting thread on ready list: main
+Switching from: Child Thread to: main
+Now in thread: main
+Putting thread on ready list: Child Thread
+syscall:write: Leaving Write Systemcall 
+
+Reading VA 184, size 4
+	Translate 184 , read
+phys addr = 184
+	value read = 65011720
+Reading VA 188, size 4
+	Translate 188 , read
+phys addr = 188
+	value read = 0
+Reading VA 696, size 4
+	Translate 696 , read
+phys addr = 696
+	value read = 62973985
+Reading VA 700, size 4
+	Translate 700 , read
+phys addr = 700
+	value read = -1883307956
+Reading VA 1772, size 4
+	Translate 1772 , read
+phys addr = 1772
+	value read = 8
+Reading VA 704, size 4
+	Translate 704 , read
+phys addr = 704
+	value read = -1883373496
+Reading VA 1768, size 4
+	Translate 1768 , read
+phys addr = 1768
+	value read = 0
+Reading VA 708, size 4
+	Translate 708 , read
+phys addr = 708
+	value read = 65011720
+Reading VA 712, size 4
+	Translate 712 , read
+phys addr = 712
+	value read = 666697808
+Reading VA 8, size 4
+	Translate 8 , read
+phys addr = 8
+	value read = 201326604
+Reading VA 12, size 4
+	Translate 12 , read
+phys addr = 12
+	value read = 8225
+Reading VA 48, size 4
+	Translate 48 , read
+phys addr = 48
+	value read = 604110849
+Reading VA 52, size 4
+	Translate 52 , read
+phys addr = 52
+	value read = 12
+Received Exception 1 type: 1
+
+syscall:exit: Entering Exit Systemcall 
+
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+cSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1729, size 1
+	Translate 1729 , read
+phys addr = 3521
+	value read = 104
+Yielding thread: Child Thread
+Putting thread on ready list: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+hSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1730, size 1
+	Translate 1730 , read
+phys addr = 3522
+	value read = 105
+iSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1731, size 1
+	Translate 1731 , read
+phys addr = 3523
+	value read = 108
+lSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Yielding thread: Child Thread
+Putting thread on ready list: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1732, size 1
+	Translate 1732 , read
+phys addr = 3524
+	value read = 100
+dSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1733, size 1
+	Translate 1733 , read
+phys addr = 3525
+	value read = 32
+ Sleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1734, size 1
+	Translate 1734 , read
+phys addr = 3526
+	value read = 112
+pSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Yielding thread: Child Thread
+Putting thread on ready list: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1735, size 1
+	Translate 1735 , read
+phys addr = 3527
+	value read = 114
+rSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1736, size 1
+	Translate 1736 , read
+phys addr = 3528
+	value read = 111
+oSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1737, size 1
+	Translate 1737 , read
+phys addr = 3529
+	value read = 99
+Yielding thread: Child Thread
+Putting thread on ready list: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+cSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1738, size 1
+	Translate 1738 , read
+phys addr = 3530
+	value read = 101
+eSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1739, size 1
+	Translate 1739 , read
+phys addr = 3531
+	value read = 115
+sSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Yielding thread: Child Thread
+Putting thread on ready list: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+Reading VA 1740, size 1
+	Translate 1740 , read
+phys addr = 3532
+	value read = 115
+sSleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: Child Thread
+syscall:exit: main process waiting on other threads #threads=3
+
+Yielding thread: main
+Putting thread on ready list: main
+Switching from: main to: Child Thread
+Now in thread: Child Thread
+syscall:write: Leaving Write Systemcall 
+
+Reading VA 184, size 4
+	Translate 184 , read
+phys addr = 1976
+	value read = 65011720
+Reading VA 188, size 4
+	Translate 188 , read
+phys addr = 1980
+	value read = 0
+Reading VA 664, size 4
+	Translate 664 , read
+phys addr = 2456
+	value read = 134217902
+Reading VA 668, size 4
+	Translate 668 , read
+phys addr = 2460
+	value read = 0
+Reading VA 696, size 4
+	Translate 696 , read
+phys addr = 2488
+	value read = 62973985
+Reading VA 700, size 4
+	Translate 700 , read
+phys addr = 2492
+	value read = -1883307956
+Reading VA 1772, size 4
+	Translate 1772 , read
+phys addr = 3564
+	value read = 8
+Reading VA 704, size 4
+	Translate 704 , read
+phys addr = 2496
+	value read = -1883373496
+Reading VA 1768, size 4
+	Translate 1768 , read
+phys addr = 3560
+	value read = 0
+Reading VA 708, size 4
+	Translate 708 , read
+phys addr = 2500
+	value read = 65011720
+Reading VA 712, size 4
+	Translate 712 , read
+phys addr = 2504
+	value read = 666697808
+Reading VA 8, size 4
+	Translate 8 , read
+phys addr = 1800
+	value read = 201326604
+Reading VA 12, size 4
+	Translate 12 , read
+phys addr = 1804
+	value read = 8225
+Reading VA 48, size 4
+	Translate 48 , read
+phys addr = 1840
+	value read = 604110849
+Reading VA 52, size 4
+	Translate 52 , read
+phys addr = 1844
+	value read = 12
+Received Exception 1 type: 1
+
+syscall:exit: Entering Exit Systemcall 
+
+syscall:exit: Calling Thread->Finish() on pid=1 
+
+Finishing thread: Child Thread
+Sleeping thread: Child Thread
+Switching from: Child Thread to: main
+Now in thread: main
+Deleting thread: Child Thread
+AddrSpace: destructor
+Ticks: total 4475, idle 1846, system 2500, user 129
+Paging: hits 233 faults 0 hit rate 1
+TLB: hits 0 misses 233 hit rate 0
+syscall:exit: Calling Thread->Finish() on pid=0 
+
+Finishing thread: main
+Sleeping thread: main
+
+Cleaning up after signal 2

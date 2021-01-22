@@ -1,0 +1,59 @@
+/**************************************************************
+ *
+ * userprog/ksyscall.h
+ *
+ * Kernel interface for systemcalls 
+ *
+ * by Marcus Voelp  (c) Universitaet Karlsruhe
+ *
+ **************************************************************/
+
+#ifndef __USERPROG_KSYSCALL_H__ 
+#define __USERPROG_KSYSCALL_H__ 
+
+#include "kernel.h"
+
+
+
+
+void SysHalt()
+{
+  kernel->interrupt->Halt();
+}
+
+int SysAdd(int op1, int op2)
+{
+  return op1 + op2;
+}
+/*
+int SysRead(int addr, int sz) 
+{
+printf("SysRead call | Input a word with length more than 10 \n");
+char buf[sz];
+cin >> buf;
+int i = 0;
+while (i < sz) {
+int x = (int)(buf[i]);
+kernel->machine->WriteMem(addr, 1, x);
+addr++;
+i++;
+}
+return 0;
+}
+
+int SysWrite(int addr, int sz) 
+{
+printf("SysWrite call | Writing to console with lenghth = %d ", &sz);
+int i = 0;
+while (i < sz) 
+{
+int x;
+kernel->machine->ReadMem(addr, 1,&x);
+char str = char(x);
+addr++;
+i++;	
+}
+return 0;
+}
+*/
+#endif /* ! __USERPROG_KSYSCALL_H__ */
